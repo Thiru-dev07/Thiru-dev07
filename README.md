@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on Google & meta
-- 📫 How to reach me thirudigisailor.com
+- 📫 Reach me thirudigisailor.com
 
 <!---
 Thiru-dev07/Thiru-dev07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
